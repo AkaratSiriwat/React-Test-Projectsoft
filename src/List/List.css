@@ -1,0 +1,10 @@
+.list-container{
+    display: flex;
+    width: 1378px;
+    /* background-color: aqua; */
+}
+.list-control{
+    display: flex;
+    flex-wrap: wrap;
+}
+
